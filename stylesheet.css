@@ -99,8 +99,9 @@ span {
   line-height: 0px;
 }
 .profile-desc img{
+	padding-top:10px;
 	width: 200px;
-height: 300px;
+	height: 300px;
 }
 .form{
 	padding: 30px 0px 30px 0px;
