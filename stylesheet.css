@@ -93,7 +93,7 @@ span {
     list-style-type:none;
     margin: 0;
     padding: 0;
-    grid-template-columns: repeat(3, 25%);
+    grid-template-columns: repeat(5, 20%);
     grid-template-rows: repeat(2, 25%);
 }
 .all-2 {
