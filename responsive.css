@@ -30,9 +30,8 @@
 	.form-item input {
 		width: 100%;
 	}
-	.menu-logo{
-		padding-top:10px;
-		display: inline-block;
+	.menu-icon{
+		display: block;
 	}
 	.menu-logo:hover{
 		padding-top:0;
