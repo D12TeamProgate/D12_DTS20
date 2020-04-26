@@ -125,9 +125,7 @@ li {
 }
 
 .profile-desc p{
-	width: 95%;
-  display: inline-block;
-  line-height: 0px;
+	width: 0 2.5%;
 }
 .profile-desc img{
 	padding-top: 10px;
