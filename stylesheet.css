@@ -24,12 +24,17 @@ li {
 .header-logo img:hover{
 	opacity: 0.7;
 }
+
+.header-left span {
+	display: none; 
+}
+
 .menu-icon {
   color: white;
   float: left;
   font-size: 25px;
   padding: 21px 0;
-  display: none; 
+  
 }
 
 .header-list li {
