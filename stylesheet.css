@@ -87,6 +87,7 @@ span {
 	line-height: 15px;
 }
 
+/*
 .profile-all{
 	
 	display:grid;
@@ -104,6 +105,7 @@ span {
     grid-template-columns: repeat(2, 25%);
     grid-template-rows: repeat(2, 25%);
 }
+*/
 .profile-container {
 	padding-top:20px;
 	margin-bottom: 20px;
