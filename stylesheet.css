@@ -32,7 +32,7 @@ li {
 .menu-icon {
   color: white;
   float: left;
-  font-size: 25px;
+  font-size: 36px;
   padding: 21px 0;
   
 }
@@ -127,7 +127,7 @@ span {
 }
 
 .profile-desc p{
-	width: 90%;
+	width: 95%;
   display: inline-block;
   line-height: 0px;
 }
