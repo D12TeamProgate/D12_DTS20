@@ -26,16 +26,14 @@ li {
 }
 
 .header-left span {
+	color: white;
+  	float: left;
+  	font-size: 30px;
+ 	padding: 15px 0;
 	display: none; 
 }
 
-.menu-icon {
-  color: white;
-  float: left;
-  font-size: 36px;
-  padding: 21px 0;
-  
-}
+
 
 .header-list li {
 	float: left;
