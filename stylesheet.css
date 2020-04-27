@@ -12,7 +12,7 @@ li {
 }
 .header {
 	height: 60px;
-	background-color: #4682B4;
+	background-color: #483D8B;
 }
 .header-logo {
 	float: left;
@@ -126,7 +126,9 @@ li {
 }
 
 .profile-desc p{
-	width: 0 2.5%;
+	width: 95%;
+  display: inline-block;
+  line-height: 0px;
 }
 .profile-desc img{
 	padding-top: 10px;
@@ -143,9 +145,12 @@ li {
 	padding-bottom: 20px;
 }
 .form-item input{
-	width: 25%;
-	height: 25px;
+	width: 40%;
+	height: 40px;
 	color: #CBC8D6;
+	border-radius: 5px;
+	 padding: 2px 5px;
+	 font-size: 15px;
 }
 
 
@@ -154,11 +159,13 @@ li {
 	color:#889eab;
 }
 .btn {
-	padding: 10px 60px;
+	padding: 10px 220px;
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
   color: white;
+border-radius: 5px;
+
 }
 .btn:hover{
 	opacity: 0.8;
@@ -172,7 +179,48 @@ li {
 	height: 30px;
 	color: white;
 	background-color: #4682B4;
-	text-align: center;
+	text-align: right;
 	display: block;
 	padding:30px 0 30px 0;
+}
+
+.btn2-wrapper {
+	 text-align: center;
+  margin: 20px 0;
+}
+
+.btn2-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.google {
+  background-color: #4682B4;
+}
+
+/*.footer{
+	margin-top: 10px;
+}*/
+.btn2 {
+  padding: 12px 35px;
+  color: white;
+  display: inline-block;
+ 
+  border-radius: 4px;
+}
+
+.btn2:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
 }
