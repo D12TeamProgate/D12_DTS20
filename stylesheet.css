@@ -158,23 +158,33 @@ li {
 .form-input{
 	color:#889eab;
 }
-.btn {
-	padding: 10px 220px;
-  background-color: #5dca88;
-  cursor: pointer;
-  box-shadow: 0 7px #1a7940;
-  color: white;
-border-radius: 5px;
 
+.daftar-btn input{
+	width: 40%;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: #E3DA14 ;
+	text-align: center;
+	height: 40px;
+	padding: 2px 5px;
+	 font-size: 15px;
+	 border: none;
+	 cursor: pointer;
+	 box-shadow: 3px 3px 4px rgba(0,0,0,0.4);
 }
-.btn:hover{
-	opacity: 0.8;
+
+.daftar-btn input:Hover{
+	
+	background-color: #F3FF33 ;
+	
 }
-.btn:active{
-  position: relative;
-  top: 7px;
-  box-shadow: none;
+.daftar-btn input:active{
+	
+	width: 38%;
+	height: 38px;
+	
 }
+
 .footer{
 	height: 30px;
 	color: white;
@@ -193,9 +203,7 @@ border-radius: 5px;
   margin: 10px 0;
 }
 
-.signup {
-  background-color: #239b76;
-}
+
 
 .facebook {
   background-color: #3b5998;
