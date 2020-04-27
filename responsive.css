@@ -7,6 +7,10 @@
 	.profile-container {
 	width: 50%;
 	}
+	.form-item input {
+		width: 80%;
+	}
+	
 }
 
 /* Smartphone */
@@ -28,7 +32,7 @@
 		width: 100%;
 	}
 	.form-item input {
-		width: 100%;
+		width: 90%;
 	}
 	.header-left span{
 		display: block;
@@ -42,4 +46,22 @@
 	
 	display: none;
 	}
+
+	 .btn2 {
+    width: 30%;
+  }
+ 
+  .btn{
+    padding: 10px 200px;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+     /*padding: 10px 142px;*/
+  }
+  .google {
+    margin-bottom: 10px;
+    /*padding: 10px 150px;*/
+  }
+
 }
