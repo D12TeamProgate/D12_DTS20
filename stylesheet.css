@@ -215,18 +215,3 @@ li {
 /*.footer{
 	margin-top: 10px;
 }*/
-.btn2 {
-  padding: 12px 35px;
-  color: white;
-  display: inline-block;
- 
-  border-radius: 4px;
-}
-
-.btn2:hover {
-  opacity: 1;
-}
-
-.fa {
-  margin-right: 5px;
-}
