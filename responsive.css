@@ -48,12 +48,15 @@
 	}
 
 	 .btn2 {
-    width: 30%;
-  }
- 
-  .btn{
-    padding: 10px 200px;
-  }
+    	width: 30%;
+ 	 }
+ 	.daftar-btn input{
+  		width: 90%;
+  	}
+ 	.daftar-btn input:active{
+  	width: 88%;
+  	}
+  
   
   .facebook {
     margin-bottom: 10px;
